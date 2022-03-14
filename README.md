@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Olá eu sou o Luiz Felipe 😊
+  ## Olá, eu sou o Luiz Felipe 😊
 
 </div>
 
