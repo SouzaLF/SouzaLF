@@ -1,18 +1,17 @@
 <div align="center">
-  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+o+Luiz+Felipe...;Seja+bem+vindo!+:)&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+o+Luiz+Felipe...;Seja+bem+vindo!+😃️&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
   </p>
+  <h1 align="center">
+  </h1>
 
 </div>
 
-##
-
 <div align="center">
   <a href="https://github.com/SouzaLF">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouzaLF&theme=blue-green"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaLF&theme=blue-green"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SouzaLF&theme=blue-green"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaLF&theme=blue-green"/>
   </a>
 </div>
     
