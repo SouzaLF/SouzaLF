@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/SouzaLF">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SouzaLF&theme=blue-green"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaLF&theme=blue-green"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SouzaLF&theme=blue-green"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaLF&theme=blue-green"/>
   </a>
 </div>
     
