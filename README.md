@@ -1,10 +1,10 @@
 <div align="center">
   
   ## Olá, eu sou o Luiz Felipe 😊
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Luiz+Felipe+Souza;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
-
 
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Luiz+Felipe+Souza;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/SouzaLF">
