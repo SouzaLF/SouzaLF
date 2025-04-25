@@ -1,7 +1,7 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+o+Luiz+Felipe...;Seja+bem+vindo!+😃️&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+o+Luiz+Felipe...;Seja+bem+vindo!+😃️&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="">
   </p>
   <h1 align="center">
   </h1>
